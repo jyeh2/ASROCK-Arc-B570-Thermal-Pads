@@ -1,5 +1,5 @@
 # ASROCK-Arc-B570-Thermal-Pads
-This is a guide to thermal pad thickness and a practice for me to write in markdown mode in vim lol
+This is a guide to thermal pad thickness and a practice for me to write in markdown mode in vim lol(But needless to say I cannot be held accountable if you B570 does not boot)
 
 ### Measurement Method
 I measured and rounded up to the nearest .25 mm for all the thermal pads, as the pads are often compressed down from those .25mm thickness.
