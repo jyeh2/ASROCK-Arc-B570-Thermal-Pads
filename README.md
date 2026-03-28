@@ -10,7 +10,7 @@ There are 3 thermal pads on the pcb side contacting each inductor, all located a
 2 at the top side(mem voltage): 1.5mm
 1 near the 8 pin: 1.75mm
 
-![PCBSIDE](img/Pcb_1.jpg)
+![PCBSIDE](imgs/Pcb_1.jpg)
 
 ## Heatsink Side
 
