@@ -1,5 +1,7 @@
 # ASROCK-Arc-B570-Thermal-Pads
-This is a guide to thermal pad thickness and a practice for me to write in markdown mode in vim lol(But needless to say I cannot be held accountable if you B570 does not boot)
+This is a guide to thermal pad thickness and a practice for me to write in markdown mode in vim lol(But needless to say I cannot be held accountable if you B570 breaks)
+
+Whats more interesting is that there is a thermal pad for the 5th vram on the heatsink thats not present on the board... There is a possibility here that ASROCK may have used the same measuremetns for the b580 model.
 
 ### Measurement Method
 I measured and rounded up to the nearest .25 mm for all the thermal pads, as the pads are often compressed down from those .25mm thickness.
